@@ -1,0 +1,2 @@
+sample,library,read1,read2,sample_captures,Diagnosis,Matched_RNA,Matched_normal,casename,type,FCID,seq_type,genome
+Test1,Test5_T1D_E,assets/Test5_T1D_E_R1.fastq.gz,assets/Test5_T1D_E_R2.fastq.gz,clin.ex.v1,Osteosarcoma,,,NFtest,normal_DNA,C6R72ANXX,E-il,hg19
